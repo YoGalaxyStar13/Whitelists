@@ -1,0 +1,19 @@
+{
+    "WhitelistedUsers": {
+      "default": {
+        "hash": "defaultdata",
+        "attackable": true,
+        "level": 0,
+        "tags": [
+          {
+            "text": "GX+ User",
+            "color": [
+              31,
+              112,
+              242
+            ]
+          }
+        ]
+      },
+    }
+}
