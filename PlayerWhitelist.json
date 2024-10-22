@@ -1,21 +1,21 @@
 {
   "WhitelistedUsers": {
-    "919665092025528441": {
+    "1284641374787866666": {
       "hash": "f29b60f2ad759ad98d55c514a89c333002f43daa093391f9f84095d7251daf5da3d32cf0cbbe61971aae9e9ab91dac558ee55ac98372d16795b97e724537315b",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "HCKR",
+          "text": "GX+ Owner",
           "color": [0, 0, 255]
         }
       ]
     }
   },
   "WhitelistedTags": {
-    "919665092025528441": [
+    "1284641374787866666": [
       {
-        "text": "HCKR",
+        "text": "GX+ Owner",
         "color": [0, 0, 255]
       }
     ]
