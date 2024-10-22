@@ -1,35 +1,20 @@
 {
   "WhitelistedUsers": {
     "919665092025528441": {
-      "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
+      "hash": "f29b60f2ad759ad98d55c514a89c333002f43daa093391f9f84095d7251daf5da3d32cf0cbbe61971aae9e9ab91dac558ee55ac98372d16795b97e724537315b",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "HCKR",
+          "text": "Hecker",
           "color": [
-            255,
-            255,
-            255
+            0,
+            141,
+            207
           ]
         }
       ]
     },
-    "1284641374787866666": {
-    "hash": "f29b60f2ad759ad98d55c514a89c333002f43daa093391f9f84095d7251daf5da3d32cf0cbbe61971aae9e9ab91dac558ee55ac98372d16795b97e724537315b"
-    "attackable": false,
-    "level": 1,
-    "tags": [
-      {
-        "text": "GX+ Owner",
-        "color": [
-          0,
-          141,
-          207
-        ]
-      }
-    ]
-  },
     "378746510596243458": {
       "hash": "e1eaacc5fbca1288f11a2437756b752062c388e007c0a2748b5d7dba02c239949fdb42e35319bda5f91743d39fdf824a539476031a043aa4c0cdb0f31a54519b",
       "attackable": false,
