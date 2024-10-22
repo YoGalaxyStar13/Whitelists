@@ -6,8 +6,8 @@
       "level": 1,
       "tags": [
         {
-          "text": "GX+ Owner",
-          "color": [0, 0, 255]
+          "text": "OO AA",
+          "color": [255, 0, 0]
         }
       ]
     }
@@ -15,8 +15,8 @@
   "WhitelistedTags": {
     "1284641374787866666": [
       {
-        "text": "GX+ Owner",
-        "color": [0, 0, 255]
+        "text": "OO AA",
+        "color": [255, 0, 0]
       }
     ]
   },
