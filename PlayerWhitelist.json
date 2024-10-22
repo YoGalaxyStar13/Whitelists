@@ -1,1 +1,30 @@
-
+{
+  "WhitelistedUsers": {
+    "919665092025528441": {
+      "hash": "f29b60f2ad759ad98d55c514a89c333002f43daa093391f9f84095d7251daf5da3d32cf0cbbe61971aae9e9ab91dac558ee55ac98372d16795b97e724537315b",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [0, 0, 255]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+    "919665092025528441": [
+      {
+        "text": "HCKR",
+        "color": [0, 0, 255]
+      }
+    ]
+  },
+  "BlacklistedUsers": {},
+  "Announcement": {
+    "text": "hello there :)",
+    "expiretime": 1719510977.4331613,
+    "targets": "2529295875"
+  },
+  "KillVape": false
+}
