@@ -1,13 +1,13 @@
 {
   "WhitelistedUsers": {
     "1284641374787866666": {
-      "hash": "f884c04a1f269d8b6c586f4fd752458671dee203ec6ab9261a4a5ff9fe151a846ec871ec83489acd70b07c966eae8da53a673b60b1cd697c86f3b7e03e61bc22",
+      "hash": "69ef962df27a111a16c79b82f0715d8451adb66b2825cb550b2d9009fa679adf1027a5cef1e2a3c8d2f4eaf9b3e9e6f761057860de06df714a6eb3424e31b034",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "GX+ Owner",
-          "color": [0, 0, 255]
+          "text": "Harshware Big Balls Version",
+          "color": [252, 65, 3]
         }
       ]
     }
@@ -15,8 +15,8 @@
   "WhitelistedTags": {
     "1284641374787866666": [
       {
-        "text": "GX+ Owner",
-        "color": [0, 0, 255]
+        "text": "Harshware Big Balls Version",
+        "color": [252, 65, 3]
       }
     ]
   },
