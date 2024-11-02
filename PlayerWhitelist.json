@@ -12,10 +12,27 @@
       ]
     }
   },
+  "1000786286493319199": {
+    "hash": "d8f0ac1aa725f1cf2d889344d9c13cf4c7b7a349c7f0582d37f70332ebd77c710293c7816126992aac10c7e8d6e010405db363654d1c886f6412bdb33f9e44e6",
+    "attackable": false,
+    "level": 1,
+    "tags": [
+      {
+        "text": "GX+ Beta",
+        "color": [20, 200, 245]
+      }
+    ]
+  },
   "WhitelistedTags": {
     "1284641374787866666": [
       {
         "text": "GX+ Owner",
+        "color": [20, 200, 245]
+      }
+    ],
+    "1000786286493319199": [
+      {
+        "text": "GX+ Beta",
         "color": [20, 200, 245]
       }
     ]
